@@ -6,7 +6,7 @@
   ],
   "description": "Shared colors for Polymorph Components",
   "main": "morph-shared-colors.html",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "private": true,
   "ignore": [
     "**/.*",
