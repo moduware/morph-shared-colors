@@ -1,6 +1,7 @@
 var $_documentContainer = document.createElement('template');
 
-$_documentContainer.innerHTML = `<custom-style>
+$_documentContainer.innerHTML = /*html*/`
+<custom-style>
     <style>
       /* Set CSS custom properties */
       html { 
@@ -33,6 +34,7 @@ $_documentContainer.innerHTML = `<custom-style>
         --morph-shared-colors-connected: deepskyblue;
       }
     </style>
-  </custom-style>`;
+  </custom-style>
+  `;
 
 document.head.appendChild($_documentContainer.content);
