@@ -1,7 +1,7 @@
 {
   "description": "Shared colors for Polymorph Components",
   "homepage": "https://github.com/moduware/polymorph-components",
-  "name": "@polymer/morph-shared-colors",
+  "name": "@moduware/morph-shared-colors",
   "version": "1.0.0",
   "main": "morph-shared-colors.js",
   "author": "Moduware",
